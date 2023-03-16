@@ -197,42 +197,6 @@ $object_sprites = {
   ],
 }
 
-# $object_sprites = [
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Cactus.png", source_x: 0},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Cactus.png", source_x: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Cactus.png", source_x: 32},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Cactus.png", source_x: 64},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Cactus.png", source_x: 0, source_y: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Cactus.png", source_x: 16, source_y: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Cactus.png", source_x: 32, source_y: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Cactus.png", source_x: 64, source_y: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/DeadTrees.png", source_x: 0},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/DeadTrees.png", source_x: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/DeadTrees.png", source_x: 32},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/DeadTrees.png", source_x: 64},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/PineTrees.png", source_x: 0},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/PineTrees.png", source_x: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/PineTrees.png", source_x: 32},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Rocks.png", source_x: 0},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Rocks.png", source_x: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Rocks.png", source_x: 32},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Rocks.png", source_x: 0, source_y: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Rocks.png", source_x: 16, source_y: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Rocks.png", source_x: 32, source_y: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Trees.png", source_x: 0},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Trees.png", source_x: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Trees.png", source_x: 32},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Trees.png", source_x: 64},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Wheatfield.png", source_x: 0},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Wheatfield.png", source_x: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Wheatfield.png", source_x: 32},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/Wheatfield.png", source_x: 64},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/WinterDeadTrees.png", source_x: 0},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/WinterDeadTrees.png", source_x: 16},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/WinterDeadTrees.png", source_x: 32},
-  # {x: 0, y:0, w: 16, h: 16, source_w: 16, source_h: 16, path: "sprites/MiniWorldSprites/Nature/WinterDeadTrees.png", source_x: 64},
-# ]
-
 def get_visible_tiles args, zoom, xpos, ypos
   visible_tiles = []
 
@@ -332,39 +296,6 @@ def get_debug_labels args
   ]
 end
 
-
-# Noise from : https://github.com/Lyniat/Dragon-Ruby-Value-Noise
-# Licence for Noise:
-
-# BSD 3-Clause License
-#
-# Copyright (c) 2022, Laurin Muth
-# All rights reserved.
-#
-# Redistribution and use in source and binary forms, with or without
-# modification, are permitted provided that the following conditions are met:
-#
-# 1. Redistributions of source code must retain the above copyright notice, this
-# list of conditions and the following disclaimer.
-#
-# 2. Redistributions in binary form must reproduce the above copyright notice,
-# this list of conditions and the following disclaimer in the documentation
-# and/or other materials provided with the distribution.
-#
-# 3. Neither the name of the copyright holder nor the names of its
-# contributors may be used to endorse or promote products derived from
-# this software without specific prior written permission.
-#
-# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-# AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-# DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-# FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-# DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-# CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-# OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-# OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 class Noise
 
