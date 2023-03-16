@@ -12,13 +12,10 @@ def tick args
   # args.outputs.debug << args.gtk.framerate_diagnostics_primitives
 
   num_work = 4
-  if !$work_queue.empty?
-    while num_work > 0
-      work_unit = $work_queue.pop()
-      process_work work_unit, args
-      num_work -= 1
-      break if $work_queue.empty?
-    end
+  while num_work > 0 && !$work_queue.empty?
+    work_unit = $work_queue.pop()
+    process_work work_unit, args
+    num_work -= 1
   end
 
   check_input args
